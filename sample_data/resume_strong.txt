@@ -1,0 +1,41 @@
+RAHUL SHARMA
+Email: rahul.sharma@email.com | Phone: +91-9876543210
+LinkedIn: linkedin.com/in/rahulsharma
+
+SUMMARY
+Experienced Python developer with 6+ years building scalable backend systems, REST APIs, and data pipelines. Strong expertise in Flask, FastAPI, PostgreSQL, and cloud deployments.
+
+SKILLS
+- Languages: Python, JavaScript, SQL, Bash
+- Frameworks: FastAPI, Flask, Django, SQLAlchemy
+- Databases: PostgreSQL, MySQL, Redis, MongoDB
+- Cloud: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes
+- Tools: Git, GitHub Actions, Jenkins, Terraform
+- Testing: pytest, unittest, Selenium
+
+EXPERIENCE
+
+Senior Software Engineer | DataNext Technologies | Jan 2021 - Present
+- Lead a team of 4 developers building microservices for a fintech SaaS platform
+- Designed and implemented 15+ REST APIs using FastAPI with async processing
+- Migrated monolithic application to microservices, reducing deployment time by 60%
+- Set up CI/CD pipelines using GitHub Actions and Docker
+- Optimized PostgreSQL queries, improving API response times by 40%
+
+Software Developer | CodeWave Solutions | Jun 2018 - Dec 2020
+- Developed backend APIs using Flask and SQLAlchemy
+- Built data ingestion pipelines processing 1M+ records daily
+- Implemented Redis caching layer reducing database load by 50%
+- Wrote comprehensive unit tests achieving 90%+ code coverage
+
+Junior Developer | StartupHub | Jul 2016 - May 2018
+- Built REST APIs and admin dashboards using Django
+- Managed PostgreSQL databases and wrote complex SQL queries
+- Participated in agile sprints and code reviews
+
+EDUCATION
+B.Tech in Computer Science | VIT University | 2012 - 2016 | GPA: 8.5/10
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate
+- Kubernetes Certified Application Developer (CKAD)
