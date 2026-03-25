@@ -1,0 +1,40 @@
+Senior Python Developer
+
+Company: TechCorp Solutions
+Location: Bangalore, India (Hybrid)
+
+About the Role:
+We are looking for a Senior Python Developer to join our backend engineering team. You will design, build, and maintain scalable APIs and data pipelines powering our SaaS platform.
+
+Required Skills:
+- Python (5+ years)
+- REST API development (Flask or FastAPI)
+- PostgreSQL or MySQL
+- Docker & Kubernetes
+- Git version control
+- Unit testing (pytest)
+- CI/CD pipelines
+
+Preferred Skills:
+- AWS or Azure cloud services
+- Redis or message queues (RabbitMQ, Kafka)
+- Microservices architecture
+- GraphQL
+- Terraform or Infrastructure as Code
+
+Experience:
+- Minimum 5 years of professional software development experience
+- At least 3 years working primarily with Python
+- Experience leading or mentoring junior developers
+
+Education:
+- Bachelor's degree in Computer Science, Engineering, or related field
+- Master's degree preferred
+
+Responsibilities:
+- Design and implement RESTful APIs and microservices
+- Optimize database queries and data access patterns
+- Write comprehensive unit and integration tests
+- Participate in code reviews and architectural decisions
+- Mentor junior team members
+- Collaborate with product and DevOps teams
